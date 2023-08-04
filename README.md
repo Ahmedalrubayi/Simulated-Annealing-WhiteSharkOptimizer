@@ -17,4 +17,4 @@
 %This combination aims to strike a balance between exploration and exploitation, potentially leading to improved convergence speed and solution quality.
 % 
 % R1-White Shark Optimizer: A novel bio-inspired meta-heuristic algorithm for global optimization problems
-%   Knowledge-Based Systems DOI: https://doi.org/10.1016/j.knosys.2022.108457
+%   Knowledge-Based Systems 
