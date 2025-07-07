@@ -1,10 +1,10 @@
-%% Simulated Annealing-White Shark Optimizer (SA-WSO)
+%% Simulated Annealing-White Shark Optimiser (SA-WSO)
 %The Simulated Annealing-White Shark Optimizer (SA-WSO) is a hybrid optimization algorithm
 %that combines the principles of Simulated Annealing (SA) and
-%the White Shark Optimizer (WSO). This hybrid approach aims to leverage the strengths of both algorithms to improve the efficiency and effectiveness of the optimization process.
+%the White Shark Optimiser (WSO). This hybrid approach aims to leverage the strengths of both algorithms to improve the efficiency and effectiveness of the optimization process.
 %The SA-WSO algorithm typically follows these main steps:
-%Initialization: Generate an initial population of candidate solutions randomly within the search space, as done in WSO [R1].
-%Preying Behavior (WSO Phase): Sharks in the population select their prey based on their fitness values, using the hunting behaviour of WSO. This phase promotes exploration and exploitation of the search space.
+% Initialisation: Generate an initial population of candidate solutions randomly within the search space, as done in WSO [R1].
+%Preying Behaviour (WSO Phase): Sharks in the population select their prey based on their fitness values, using the hunting behaviour of WSO. This phase promotes exploration and exploitation of the search space.
 %Simulated Annealing Phase: Apply the SA algorithm to the best shark obtained from the WSO phase. This phase involves the following steps:
 %a. Define the initial temperature and cooling schedule for SA.
 %b. Iteratively modify the current solution (shark) by perturbing it and evaluating the neighbouring solutions, similar to the SA algorithm.
@@ -16,5 +16,5 @@
 %The WSO phase helps explore the search space efficiently, while the SA phase focuses on refining the solutions locally. 
 %This combination aims to strike a balance between exploration and exploitation, potentially leading to improved convergence speed and solution quality.
 % 
-% R1-White Shark Optimizer: A novel bio-inspired meta-heuristic algorithm for global optimization problems
+% R1-White Shark Optimiser: A novel bio-inspired meta-heuristic algorithm for global optimization problems
 %   Knowledge-Based Systems 
